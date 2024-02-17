@@ -1,4 +1,4 @@
-<img src="/pikachu.gif" title="pika" alt="pika" width="250" height="177"/>
+<img src="/pikachu.gif" title="pika" alt="pika" width="167" height="118"/>
 ### ✨ Languages and Tools :
 <p align="center">
   
